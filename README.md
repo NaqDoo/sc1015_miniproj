@@ -1,10 +1,18 @@
-Make sure all your codes/notebooks plus the data is on the repository for the TA to check.
-Make sure the README file is decently written (like a short report) to describe your work.
-README does not need to have all minor details, but it should broadly explain your work.
-README does not need to be too huge. Keep it simple, compact, but sufficiently detailed.
-Make sure the README ends with each individual contribution in the project by members.
-Make sure the README ends with each online/offline reference you consulted or utilized.
-Don't go over the top please. Try to make the README a 3 to 5 minute read -- not more.
+We will be exploring the Heart Failure Prediction Dataset from kaggle (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data).
 
+Aim: Predicting whether a patient is susceptible to heart failure based on the attributes provided. The problem is a binary classification problem (having a heart disease (1) and not having one (0)).
 
+Attributes:
+- Age : age of the patient [years]
+- Sex : sex of the patient [M: Male, F: Female]
+- ChestPainType : chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
+- RestingBP : resting blood pressure [mm Hg]
+- Cholesterol : serum cholesterol [mm/dl]
+- FastingBS : fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
+- RestingECG : resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]
+- MaxHR : maximum heart rate achieved [Numeric value between 60 and 202]
+- ExerciseAngina : exercise-induced angina [Y: Yes, N: No]
+- Oldpeak : oldpeak = ST [Numeric value measured in depression]
+- ST_Slope : the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
+- HeartDisease : output class [1: heart disease, 0: Normal]
 ---

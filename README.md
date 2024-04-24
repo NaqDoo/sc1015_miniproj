@@ -25,7 +25,8 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 
 ## Contributors
 
-- @AvanishAvale
-- 
+- @AvanishAvale - Exploratory Data Analysis
+- @richardxdxd - Logistic Regression
+- @
 
 ## References

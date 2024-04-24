@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-04-24 at 6 28 59 PM](https://github.com/NaqDoo/sc1015_miniproj/assets/162019204/c8629182-402a-4360-ab54-df4aa23fdb20)
 
-## **About**
+## **About** 
 
 We will be exploring the Heart Failure Prediction Dataset from kaggle (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data).
 

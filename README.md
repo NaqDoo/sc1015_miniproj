@@ -25,4 +25,7 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 
 ## Contributors
 
+- @AvanishAvale
+- 
+
 ## References

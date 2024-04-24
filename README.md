@@ -1,19 +1,28 @@
-#About
+# ACDA1 Team 2 Repository
+
+## **About**
+
 We will be exploring the Heart Failure Prediction Dataset from kaggle (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data).
 
-Aim: Predicting whether a patient is susceptible to heart failure based on the attributes provided. The problem is a binary classification problem (having a heart disease (1) and not having one (0)).
+Structure: 
+1. Exploratory Data Analysis
+2. Linear Regression Model
+3. Random Forest Regression Model
 
-Attributes:
-- Age : age of the patient [years]
-- Sex : sex of the patient [M: Male, F: Female]
-- ChestPainType : chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
-- RestingBP : resting blood pressure [mm Hg]
-- Cholesterol : serum cholesterol [mm/dl]
-- FastingBS : fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
-- RestingECG : resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]
-- MaxHR : maximum heart rate achieved [Numeric value between 60 and 202]
-- ExerciseAngina : exercise-induced angina [Y: Yes, N: No]
-- Oldpeak : oldpeak = ST [Numeric value measured in depression]
-- ST_Slope : the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
-- HeartDisease : output class [1: heart disease, 0: Normal]
----
+## Aim
+Predicting whether a patient is susceptible to heart failure based on the attributes provided. The problem is a binary classification problem (having a heart disease (1) and not having one (0)).
+
+## Models Used 
+
+- Linear Regression
+    - ___
+- Random Forest Regression
+    - ___
+ 
+## Conclusion
+
+## Knowledged gained from project
+
+## Contributors
+
+## References

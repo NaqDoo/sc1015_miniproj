@@ -22,7 +22,10 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
     - Used confusion matrix and ROC curve to evaluate and visualise the model's performance
 - Random Forest Regression
     - Categorical data was converted to integer for this model to be applied.
-    - Regression Model did not perform well with heart attack dataset as the R^2 decresed with test set and MSE increased instead. 
+    - Split the data into train and test sets
+    - Carried out random forest regression and evaluated model performance using explained variance and mean squared error
+    - Regression Model did not perform well with heart attack dataset as the R^2 decresed with test set and MSE increased instead.
+    - Extracted the top 10 values from 4 features to draw relations with risk of heart disease
  
 ## Conclusion
 

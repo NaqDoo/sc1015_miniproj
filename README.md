@@ -6,7 +6,7 @@ We will be exploring the Heart Failure Prediction Dataset from kaggle (https://w
 
 Structure: 
 1. Exploratory Data Analysis
-2. Linear Regression Model
+2. Logistic Regression Model
 3. Random Forest Regression Model
 
 ## Aim
@@ -14,7 +14,7 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 
 ## Models Used 
 
-- Linear Regression
+- Logistic Regression
     - ___
 - Random Forest Regression
     - ___

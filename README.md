@@ -2,6 +2,7 @@
 
 ![Uploading Screenshot 2024-04-24 at 6.28.59 PM.png…]()
 
+
 ## **About**
 
 We will be exploring the Heart Failure Prediction Dataset from kaggle (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data).

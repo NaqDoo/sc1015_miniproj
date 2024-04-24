@@ -23,6 +23,9 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 ## Conclusion
 
 ## Knowledged gained from project
+Performing random forest regression
+Extracting count of top 10 values of a feature
+Collaboration on Github
 
 ## Contributors
 

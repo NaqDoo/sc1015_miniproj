@@ -17,7 +17,8 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 - Logistic Regression
     - ___
 - Random Forest Regression
-    - ___
+    - Categorical data was converted to integer for this model to be applied.
+    - Regression Model did not perform well with heart attack dataset as the R^2 decresed with test set and MSE increased instead. 
  
 ## Conclusion
 

@@ -30,6 +30,12 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
     - Extracted the top 10 values from 4 features to draw relations with risk of heart disease
  
 ## Conclusion
+- Carried out Logistic Regression and Random Forest Regression
+- Logistic Regression Model has better performance with this dataset
+- RestingECG and RestingBP have lowest correlation with HeartDisease
+- ST_Slope and Exercise Angina tend to have highest correlation
+- Aging population is at higher risk of Heart Disease
+
 
 ## Knowledged gained from project
 - Data visualisation skills

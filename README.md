@@ -1,6 +1,5 @@
 # ACDA1 Team 2 Repository
 
-![Uploading Screenshot 2024-04-24 at 6.28.59 PM.png…]()
 
 
 ## **About**

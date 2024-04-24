@@ -15,7 +15,11 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 ## Models Used 
 
 - Logistic Regression
-    - ___
+    - In this project, we implemented logistic regression using Python and the scikit-learn library to predict the presence or absence of heart disease based on various attributes
+    - Applied one-hot encoding to categorical features
+    - Split the data into training and testing sets
+    - Made predictions on the test set using the trained logistic regression model
+    - Used confusion matrix and ROC curve to evaluate and visualise the model's performance
 - Random Forest Regression
     - Categorical data was converted to integer for this model to be applied.
     - Regression Model did not perform well with heart attack dataset as the R^2 decresed with test set and MSE increased instead. 
@@ -23,6 +27,9 @@ Predicting whether a patient is susceptible to heart failure based on the attrib
 ## Conclusion
 
 ## Knowledged gained from project
+Data visualisation skills
+Presentation skills
+Performing logistic regression
 Performing random forest regression
 Extracting count of top 10 values of a feature
 Collaboration on Github
